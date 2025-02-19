@@ -3,7 +3,7 @@ from mistralai import Mistral
 import discord
 
 MISTRAL_MODEL = "mistral-large-latest"
-SYSTEM_PROMPT = "You are not a helpful assistant."
+SYSTEM_PROMPT = "You are not very a helpful assistant."
 
 
 class MistralAgent:
