@@ -1,0 +1,161 @@
+2025-02-25 20:30:47,628 - news_summary - INFO - Starting news summary process for topic: Cricket Champions Trophy
+2025-02-25 20:30:47,630 - news_summary - INFO - Querying Mistral for news sources related to: Cricket Champions Trophy
+2025-02-25 20:30:52,498 - news_summary - INFO - Raw Mistral response: Sure! Here are three reputable news sources for information on the Cricket Champions Trophy:
+
+1. **ESPNcricinfo** (www.espncricinfo.com) - Known for its comprehensive coverage of cricket, including live scores, news, analysis, and player profiles.
+
+2. **Cricbuzz** (www.cricbuzz.com) - A popular cricket news website that provides live coverage, news articles, match reports, and expert analysis on cricket events worldwide.
+
+3. **BBC Sport** (www.bbc.com/sport/cricket) - Offers extensive coverage of cricket, including the Champions Trophy, with news, live updates, and in-depth analysis.
+
+These sources are well-regarded for their accuracy and depth of coverage in the world of cricket.
+2025-02-25 20:30:52,499 - news_summary - INFO - Sources found: ['Sure! Here are three reputable news sources for information on the Cricket Champions Trophy:', '1. **ESPNcricinfo** (www.espncricinfo.com) - Known for its comprehensive coverage of cricket, including live scores, news, analysis, and player profiles.', '2. **Cricbuzz** (www.cricbuzz.com) - A popular cricket news website that provides live coverage, news articles, match reports, and expert analysis on cricket events worldwide.', '3. **BBC Sport** (www.bbc.com/sport/cricket) - Offers extensive coverage of cricket, including the Champions Trophy, with news, live updates, and in-depth analysis.', 'These sources are well-regarded for their accuracy and depth of coverage in the world of cricket.']
+2025-02-25 20:30:52,499 - news_summary - INFO - Fetching news URLs for topic: Cricket Champions Trophy
+2025-02-25 20:30:53,681 - news_summary - INFO - Found 0 article links from Google News
+2025-02-25 20:30:53,681 - news_summary - INFO - Insufficient links found. You might want to consider using a news API like NewsAPI.org
+2025-02-25 20:30:54,106 - news_summary - INFO - After fallback search, found 5 total links
+2025-02-25 20:30:54,106 - news_summary - INFO - Returning 5 unique article URLs
+2025-02-25 20:30:54,107 - news_summary - INFO - Scraping article from: https://sports.yahoo.com/article/how-to-watch-the-icc-champions-trophy-schedule-where-to-stream-for-less-and-more-123006420.html
+2025-02-25 20:30:54,574 - news_summary - WARNING - Possible paywall detected at https://sports.yahoo.com/article/how-to-watch-the-icc-champions-trophy-schedule-where-to-stream-for-less-and-more-123006420.html
+2025-02-25 20:30:54,669 - news_summary - INFO - Scraped 5641 characters from https://sports.yahoo.com/article/how-to-watch-the-icc-champions-trophy-schedule-where-to-stream-for-less-and-more-123006420.html
+2025-02-25 20:30:54,669 - news_summary - INFO - Scraping article from: https://mashable.com/article/icc-champions-trophy-2025-live-stream-for-free
+2025-02-25 20:30:54,729 - news_summary - WARNING - Possible paywall detected at https://mashable.com/article/icc-champions-trophy-2025-live-stream-for-free
+2025-02-25 20:30:54,770 - news_summary - INFO - Scraped 4160 characters from https://mashable.com/article/icc-champions-trophy-2025-live-stream-for-free
+2025-02-25 20:30:54,770 - news_summary - INFO - Scraping article from: https://www.msn.com/en-us/sports/cricket/how-to-watch-south-africa-vs-australia-live-stream-2025-icc-champions-trophy-tv-channel/ar-AA1zJE9n?ocid=BingNewsVerp
+2025-02-25 20:30:54,937 - news_summary - WARNING - Possible paywall detected at https://www.msn.com/en-us/sports/cricket/how-to-watch-south-africa-vs-australia-live-stream-2025-icc-champions-trophy-tv-channel/ar-AA1zJE9n?ocid=BingNewsVerp
+2025-02-25 20:30:54,937 - news_summary - INFO - Applying special handling for MSN.com
+2025-02-25 20:30:54,944 - news_summary - INFO - Using title and meta description as fallback
+2025-02-25 20:30:54,945 - news_summary - INFO - Scraping article from: https://www.msn.com/en-nz/sports/cricket/cricket-rain-delays-start-of-australia-clash-with-south-africa-at-champions-trophy/ar-AA1zJvgG?ocid=BingNewsVerp
+2025-02-25 20:30:55,203 - news_summary - WARNING - Possible paywall detected at https://www.msn.com/en-nz/sports/cricket/cricket-rain-delays-start-of-australia-clash-with-south-africa-at-champions-trophy/ar-AA1zJvgG?ocid=BingNewsVerp
+2025-02-25 20:30:55,203 - news_summary - INFO - Applying special handling for MSN.com
+2025-02-25 20:30:55,213 - news_summary - INFO - Using title and meta description as fallback
+2025-02-25 20:30:55,214 - news_summary - INFO - Scraping article from: https://www.financialexpress.com/sports/aus-vs-sa-live-cricket-score-champions-trophy-2025-australia-vs-south-africa-full-scorecard/3759690/
+2025-02-25 20:30:55,465 - news_summary - WARNING - Possible paywall detected at https://www.financialexpress.com/sports/aus-vs-sa-live-cricket-score-champions-trophy-2025-australia-vs-south-africa-full-scorecard/3759690/
+2025-02-25 20:30:55,533 - news_summary - INFO - Scraped 710 characters from https://www.financialexpress.com/sports/aus-vs-sa-live-cricket-score-champions-trophy-2025-australia-vs-south-africa-full-scorecard/3759690/
+2025-02-25 20:30:55,533 - news_summary - INFO - Summarizing articles...
+2025-02-25 20:30:55,533 - news_summary - INFO - Article 1 length: 5000 characters
+2025-02-25 20:30:55,533 - news_summary - INFO - Article 1 preview: From Feb. 19 to March 9, eight of cricket's most elite teams will compete in the ICC Champions Troph...
+2025-02-25 20:30:55,533 - news_summary - INFO - Article 2 length: 4160 characters
+2025-02-25 20:30:55,533 - news_summary - INFO - Article 2 preview: TL;DR: Live stream the 2025 ICC Champions Trophy for free from anywhere in the world with ExpressVPN...
+2025-02-25 20:30:55,533 - news_summary - INFO - Article 3 length: 710 characters
+2025-02-25 20:30:55,533 - news_summary - INFO - Article 3 preview: Rain played spoilsport in Rawalpindi on Tuesday, forcing the abandonment of the much-anticipated Gro...
+2025-02-25 20:31:07,139 - news_summary - INFO - Generated summary length: 394 words
+2025-02-25 20:32:39,291 - news_summary - INFO - Starting news summary process for topic: Trump Immigration
+2025-02-25 20:32:39,291 - news_summary - INFO - Querying Mistral for news sources related to: Trump Immigration
+2025-02-25 20:32:44,903 - news_summary - INFO - Raw Mistral response: Certainly! When looking for reputable news sources on a topic like Trump's immigration policies, it's important to consider outlets known for their journalistic rigor and balanced reporting. Here are three reputable news sources that cover Trump's immigration policies:
+
+1. **The New York Times**:
+   - The New York Times is widely recognized for its comprehensive and detailed reporting. It provides in-depth analysis and up-to-date news on various aspects of Trump's immigration policies.
+   - Website: [nytimes.com](https://www.nytimes.com)
+
+2. **The Washington Post**:
+   - The Washington Post is known for its thorough investigative journalism and coverage of political issues, including immigration policies under the Trump administration.
+   - Website: [washingtonpost.com](https://www.washingtonpost.com)
+
+3. **Reuters**:
+   - Reuters is a global news agency that offers impartial and fact-based reporting. It covers immigration policies and their impacts extensively.
+   - Website: [reuters.com](https://www.reuters.com)
+
+These sources are known for their credibility and provide a mix of breaking news, analysis, and context on immigration policies.
+2025-02-25 20:32:44,903 - news_summary - INFO - Sources found: ["Certainly! When looking for reputable news sources on a topic like Trump's immigration policies, it's important to consider outlets known for their journalistic rigor and balanced reporting. Here are three reputable news sources that cover Trump's immigration policies:", '1. **The New York Times**:', "- The New York Times is widely recognized for its comprehensive and detailed reporting. It provides in-depth analysis and up-to-date news on various aspects of Trump's immigration policies.", '- Website: [nytimes.com](https://www.nytimes.com)', '2. **The Washington Post**:', '- The Washington Post is known for its thorough investigative journalism and coverage of political issues, including immigration policies under the Trump administration.', '- Website: [washingtonpost.com](https://www.washingtonpost.com)', '3. **Reuters**:', '- Reuters is a global news agency that offers impartial and fact-based reporting. It covers immigration policies and their impacts extensively.', '- Website: [reuters.com](https://www.reuters.com)', 'These sources are known for their credibility and provide a mix of breaking news, analysis, and context on immigration policies.']
+2025-02-25 20:32:44,903 - news_summary - INFO - Fetching news URLs for topic: Trump Immigration
+2025-02-25 20:32:45,820 - news_summary - INFO - Found 0 article links from Google News
+2025-02-25 20:32:45,820 - news_summary - INFO - Insufficient links found. You might want to consider using a news API like NewsAPI.org
+2025-02-25 20:32:46,254 - news_summary - INFO - After fallback search, found 5 total links
+2025-02-25 20:32:46,254 - news_summary - INFO - Returning 3 unique article URLs
+2025-02-25 20:32:46,255 - news_summary - INFO - Scraping article from: https://www.msn.com/en-us/news/us/shuttered-nyc-migrant-shelter-highlights-trump-s-successful-immigration-clampdown-ny-lawmaker/ar-AA1zKSBB?ocid=BingNewsVerp
+2025-02-25 20:32:46,431 - news_summary - WARNING - Possible paywall detected at https://www.msn.com/en-us/news/us/shuttered-nyc-migrant-shelter-highlights-trump-s-successful-immigration-clampdown-ny-lawmaker/ar-AA1zKSBB?ocid=BingNewsVerp
+2025-02-25 20:32:46,431 - news_summary - INFO - Applying special handling for MSN.com
+2025-02-25 20:32:46,442 - news_summary - INFO - Using title and meta description as fallback
+2025-02-25 20:32:46,443 - news_summary - INFO - Scraping article from: https://www.msn.com/en-us/news/us/one-month-in-office-how-trump-s-orders-have-reshaped-decades-of-immigration-policies/ar-AA1zK6v4?ocid=BingNewsVerp
+2025-02-25 20:32:46,617 - news_summary - WARNING - Possible paywall detected at https://www.msn.com/en-us/news/us/one-month-in-office-how-trump-s-orders-have-reshaped-decades-of-immigration-policies/ar-AA1zK6v4?ocid=BingNewsVerp
+2025-02-25 20:32:46,617 - news_summary - INFO - Applying special handling for MSN.com
+2025-02-25 20:32:46,627 - news_summary - INFO - Using title and meta description as fallback
+2025-02-25 20:32:46,628 - news_summary - INFO - Scraping article from: https://www.baltimoresun.com/2025/02/25/trump-administration-reportedly-working-on-return-of-title-42-to-deny-border-crossings/
+2025-02-25 20:32:47,084 - news_summary - WARNING - Possible paywall detected at https://www.baltimoresun.com/2025/02/25/trump-administration-reportedly-working-on-return-of-title-42-to-deny-border-crossings/
+2025-02-25 20:32:47,128 - news_summary - INFO - Scraped 204 characters from https://www.baltimoresun.com/2025/02/25/trump-administration-reportedly-working-on-return-of-title-42-to-deny-border-crossings/
+2025-02-25 20:32:47,129 - news_summary - INFO - Summarizing articles...
+2025-02-25 20:32:47,129 - news_summary - INFO - Article 1 length: 204 characters
+2025-02-25 20:32:47,129 - news_summary - INFO - Article 1 preview: Looking to deny asylum seekers from entering the United States, the Trump administration is reported...
+2025-02-25 20:32:56,232 - news_summary - INFO - Generated summary length: 329 words
+2025-02-25 20:34:22,169 - news_summary - INFO - Starting news summary process for topic: Alabama Barker
+2025-02-25 20:34:22,169 - news_summary - INFO - Querying Mistral for news sources related to: Alabama Barker
+2025-02-25 20:34:27,647 - news_summary - INFO - Raw Mistral response: I'm assuming you're referring to Alabama Barker, the daughter of Travis Barker and Shanna Moakler. Here are three reputable news sources where you might find information about her:
+
+1. **People Magazine (people.com)**: People is a well-known American magazine that focuses on celebrity news and human-interest stories. They often cover updates about celebrity families, including the Barkers.
+
+2. **Entertainment Tonight (etonline.com)**: ET is a long-running American entertainment news program that provides updates on celebrities, music, film, and TV. They have covered news related to Travis Barker and his family.
+
+3. **E! News (eonline.com)**: E! News is an American news outlet focused on pop culture, celebrities, and entertainment industry happenings. They frequently report on celebrity families and might have stories involving Alabama Barker.
+
+For the most accurate and up-to-date information, it's always a good idea to check multiple sources.
+2025-02-25 20:34:27,647 - news_summary - INFO - Sources found: ["I'm assuming you're referring to Alabama Barker, the daughter of Travis Barker and Shanna Moakler. Here are three reputable news sources where you might find information about her:", '1. **People Magazine (people.com)**: People is a well-known American magazine that focuses on celebrity news and human-interest stories. They often cover updates about celebrity families, including the Barkers.', '2. **Entertainment Tonight (etonline.com)**: ET is a long-running American entertainment news program that provides updates on celebrities, music, film, and TV. They have covered news related to Travis Barker and his family.', '3. **E! News (eonline.com)**: E! News is an American news outlet focused on pop culture, celebrities, and entertainment industry happenings. They frequently report on celebrity families and might have stories involving Alabama Barker.', "For the most accurate and up-to-date information, it's always a good idea to check multiple sources."]
+2025-02-25 20:34:27,647 - news_summary - INFO - Fetching news URLs for topic: Alabama Barker
+2025-02-25 20:34:28,713 - news_summary - INFO - Found 0 article links from Google News
+2025-02-25 20:34:28,713 - news_summary - INFO - Insufficient links found. You might want to consider using a news API like NewsAPI.org
+2025-02-25 20:34:29,224 - news_summary - INFO - After fallback search, found 5 total links
+2025-02-25 20:34:29,225 - news_summary - INFO - Returning 4 unique article URLs
+2025-02-25 20:34:29,225 - news_summary - INFO - Scraping article from: https://www.msn.com/en-us/music/celebrity/why-is-bhad-bhabie-coming-for-alabama-barker-inside-their-drama/ar-AA1zMzjr?ocid=BingNewsVerp
+2025-02-25 20:34:29,485 - news_summary - WARNING - Possible paywall detected at https://www.msn.com/en-us/music/celebrity/why-is-bhad-bhabie-coming-for-alabama-barker-inside-their-drama/ar-AA1zMzjr?ocid=BingNewsVerp
+2025-02-25 20:34:29,485 - news_summary - INFO - Applying special handling for MSN.com
+2025-02-25 20:34:29,496 - news_summary - INFO - Using title and meta description as fallback
+2025-02-25 20:34:29,497 - news_summary - INFO - Scraping article from: https://www.rollingstone.com/music/music-news/bhad-bhabie-and-alabama-barker-beef-explained-1235279982/
+2025-02-25 20:34:29,573 - news_summary - WARNING - Possible paywall detected at https://www.rollingstone.com/music/music-news/bhad-bhabie-and-alabama-barker-beef-explained-1235279982/
+2025-02-25 20:34:29,640 - news_summary - INFO - Scraped 3253 characters from https://www.rollingstone.com/music/music-news/bhad-bhabie-and-alabama-barker-beef-explained-1235279982/
+2025-02-25 20:34:29,640 - news_summary - INFO - Scraping article from: https://uproxx.com/music/why-do-bhad-bhabie-and-alabama-barker-have-beef/
+2025-02-25 20:34:29,701 - news_summary - INFO - Scraped 2140 characters from https://uproxx.com/music/why-do-bhad-bhabie-and-alabama-barker-have-beef/
+2025-02-25 20:34:29,701 - news_summary - INFO - Scraping article from: https://www.mirror.co.uk/3am/us-celebrity-news/travis-barkers-daughter-alabama-targeted-34749076
+2025-02-25 20:34:30,035 - news_summary - WARNING - Possible paywall detected at https://www.mirror.co.uk/3am/us-celebrity-news/travis-barkers-daughter-alabama-targeted-34749076
+2025-02-25 20:34:30,098 - news_summary - INFO - Scraped 3284 characters from https://www.mirror.co.uk/3am/us-celebrity-news/travis-barkers-daughter-alabama-targeted-34749076
+2025-02-25 20:34:30,098 - news_summary - INFO - Summarizing articles...
+2025-02-25 20:34:30,098 - news_summary - INFO - Article 1 length: 3253 characters
+2025-02-25 20:34:30,098 - news_summary - INFO - Article 1 preview: As if things didn’t already feel dystopian enough. This morning, Bhad Bhabie — née Danielle Bregoli,...
+2025-02-25 20:34:30,098 - news_summary - INFO - Article 2 length: 2140 characters
+2025-02-25 20:34:30,098 - news_summary - INFO - Article 2 preview: If you’ve been on social media at all in the past 12 hours or so, you might have seen a name trendin...
+2025-02-25 20:34:30,098 - news_summary - INFO - Article 3 length: 3284 characters
+2025-02-25 20:34:30,098 - news_summary - INFO - Article 3 preview: Bhad Bhabie has dropped a scathing diss track titled Ms. Whitman taking aim at Alabama Barker. The 2...
+2025-02-25 20:34:40,032 - news_summary - INFO - Generated summary length: 327 words
+2025-02-25 20:52:29,033 - news_summary - INFO - Starting news summary process for topic: Apple Vision Pro
+2025-02-25 20:52:29,033 - news_summary - INFO - Querying Mistral for news sources related to: Apple Vision Pro
+2025-02-25 20:52:33,214 - news_summary - INFO - Raw Mistral response: Certainly! For reliable and up-to-date information on the Apple Vision Pro, you can refer to the following reputable news sources:
+
+1. **Apple's Official Website**: For the most accurate and detailed information directly from the source.
+   - Website: [apple.com](https://www.apple.com)
+
+2. **The Verge**: Known for its tech reviews and in-depth analysis of new products.
+   - Website: [theverge.com](https://www.theverge.com)
+
+3. **TechCrunch**: Provides comprehensive coverage of technology news, including detailed articles and reviews on new Apple products.
+   - Website: [techcrunch.com](https://techcrunch.com)
+
+These sources are well-regarded for their credibility and thorough reporting on technology and Apple products.
+2025-02-25 20:52:33,215 - news_summary - INFO - Sources found: ['Certainly! For reliable and up-to-date information on the Apple Vision Pro, you can refer to the following reputable news sources:', "1. **Apple's Official Website**: For the most accurate and detailed information directly from the source.", '- Website: [apple.com](https://www.apple.com)', '2. **The Verge**: Known for its tech reviews and in-depth analysis of new products.', '- Website: [theverge.com](https://www.theverge.com)', '3. **TechCrunch**: Provides comprehensive coverage of technology news, including detailed articles and reviews on new Apple products.', '- Website: [techcrunch.com](https://techcrunch.com)', 'These sources are well-regarded for their credibility and thorough reporting on technology and Apple products.']
+2025-02-25 20:52:33,215 - news_summary - INFO - Fetching news URLs for topic: Apple Vision Pro
+2025-02-25 20:52:34,173 - news_summary - INFO - Found 0 article links from Google News
+2025-02-25 20:52:34,173 - news_summary - INFO - Insufficient links found. You might want to consider using a news API like NewsAPI.org
+2025-02-25 20:52:34,754 - news_summary - INFO - After fallback search, found 5 total links
+2025-02-25 20:52:34,754 - news_summary - INFO - Returning 5 unique article URLs
+2025-02-25 20:52:34,755 - news_summary - INFO - Scraping article from: https://appleinsider.com/articles/25/02/25/dassault-systemes-reveals-apple-vision-pro-apps-for-product-design-and-manufacturing
+2025-02-25 20:52:35,389 - news_summary - INFO - Scraped 5407 characters from https://appleinsider.com/articles/25/02/25/dassault-systemes-reveals-apple-vision-pro-apps-for-product-design-and-manufacturing
+2025-02-25 20:52:35,389 - news_summary - INFO - Scraping article from: https://www.msn.com/en-us/news/technology/dassault-syst%C3%A8mes-partners-with-apple-to-put-industrial-3d-software-on-vision-pro/ar-AA1zM1lG?ocid=BingNewsVerp
+2025-02-25 20:52:35,556 - news_summary - WARNING - Possible paywall detected at https://www.msn.com/en-us/news/technology/dassault-syst%C3%A8mes-partners-with-apple-to-put-industrial-3d-software-on-vision-pro/ar-AA1zM1lG?ocid=BingNewsVerp
+2025-02-25 20:52:35,556 - news_summary - INFO - Applying special handling for MSN.com
+2025-02-25 20:52:35,563 - news_summary - INFO - Using title and meta description as fallback
+2025-02-25 20:52:35,564 - news_summary - INFO - Scraping article from: https://news.artnet.com/art-world/apple-vision-pro-creative-apps-artist-tools-2612231
+2025-02-25 20:52:35,795 - news_summary - WARNING - Possible paywall detected at https://news.artnet.com/art-world/apple-vision-pro-creative-apps-artist-tools-2612231
+2025-02-25 20:52:35,852 - news_summary - INFO - Scraped 12920 characters from https://news.artnet.com/art-world/apple-vision-pro-creative-apps-artist-tools-2612231
+2025-02-25 20:52:35,852 - news_summary - INFO - Scraping article from: https://www.msn.com/en-us/health/other/apple-will-fix-many-vision-pro-pain-points-in-visionos-24/ar-AA1zxsMA?ocid=BingNewsVerp
+2025-02-25 20:52:36,038 - news_summary - WARNING - Possible paywall detected at https://www.msn.com/en-us/health/other/apple-will-fix-many-vision-pro-pain-points-in-visionos-24/ar-AA1zxsMA?ocid=BingNewsVerp
+2025-02-25 20:52:36,038 - news_summary - INFO - Applying special handling for MSN.com
+2025-02-25 20:52:36,047 - news_summary - INFO - Using title and meta description as fallback
+2025-02-25 20:52:36,048 - news_summary - INFO - Scraping article from: https://www.pcmag.com/news/apple-vision-pro-to-get-apple-intelligence-in-april
+2025-02-25 20:52:36,259 - news_summary - WARNING - Possible paywall detected at https://www.pcmag.com/news/apple-vision-pro-to-get-apple-intelligence-in-april
+2025-02-25 20:52:36,349 - news_summary - INFO - Scraped 3535 characters from https://www.pcmag.com/news/apple-vision-pro-to-get-apple-intelligence-in-april
+2025-02-25 20:52:36,349 - news_summary - INFO - Summarizing articles...
+2025-02-25 20:52:36,349 - news_summary - INFO - Article 1 length: 5000 characters
+2025-02-25 20:52:36,349 - news_summary - INFO - Article 1 preview: French company Dassault Systemes worked with Apple to integrate the Apple Vision Pro into its existi...
+2025-02-25 20:52:36,349 - news_summary - INFO - Article 2 length: 5000 characters
+2025-02-25 20:52:36,349 - news_summary - INFO - Article 2 preview: Could the spatial computer revolutionize art-making? by Adam Schrader February 25, 2025 ShareShare T...
+2025-02-25 20:52:36,349 - news_summary - INFO - Article 3 length: 3535 characters
+2025-02-25 20:52:36,349 - news_summary - INFO - Article 3 preview: UPDATE 2/22: Apple has confirmed that Apple Intelligence is coming to the Vision Pro in April. Apple...
+2025-02-25 20:52:45,489 - news_summary - INFO - Generated summary length: 326 words
