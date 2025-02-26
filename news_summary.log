@@ -159,3 +159,35 @@ These sources are well-regarded for their credibility and thorough reporting on 
 2025-02-25 20:52:36,349 - news_summary - INFO - Article 3 length: 3535 characters
 2025-02-25 20:52:36,349 - news_summary - INFO - Article 3 preview: UPDATE 2/22: Apple has confirmed that Apple Intelligence is coming to the Vision Pro in April. Apple...
 2025-02-25 20:52:45,489 - news_summary - INFO - Generated summary length: 326 words
+2025-02-25 21:09:13,409 - news_summary - INFO - Starting news summary process for 'baseball'
+2025-02-25 21:09:13,409 - news_summary - INFO - Fetching news URLs for 'baseball'
+2025-02-25 21:09:27,895 - news_summary - INFO - Starting news summary process for 'finance'
+2025-02-25 21:09:27,896 - news_summary - INFO - Fetching news URLs for 'finance'
+2025-02-25 21:10:51,706 - news_summary - INFO - Starting news summary process for 'baseball'
+2025-02-25 21:10:51,707 - news_summary - INFO - Fetching news URLs for 'baseball'
+2025-02-25 21:10:53,607 - news_summary - INFO - Scraping article: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX3JrMGc2MmdZcXU2WnZDRWtJQ0x2YldycEJmQmFqS2x3YXV6Y3ZpcjZKUklJU3Jkekd3VG9sVXI5M0FZd1RfYnRVYkRsZS1tU2VIM2ZNWVZOclFWdlhHSC1OSXA1OUNNbEhJOC1hTU04eE1QOFhHdTAwZUlKQzJNeENiOVJaT2otTlRPa2pmNVdKeHJKSXdfM2pPTWhLbVVBSWY0b3lYaEZrM0RfTFdxWFQxS0hCYW96MVQwd29HSmxyVV8tM3BfQWxsTWFjc3UwaDlxcHdtTWNzaXc3QmxRRTdGYVBmZ3pW0gH8AUFVX3lxTFBtYnkyNkxjeENFaGQwMF91TXp2YVZwc1g3YXZIeGdBTmNoOEdWcUo3bTBOWlp1d295aHpKT0RYN0FkalBZYXZMV3p4ZUQyX1haSVd0cnVrbERoVVRDaG5OYmd5ZDdxN2hvVmlDU2FqY0Q5dFZSTlFUVzFwODRIQjlRN1Y1ckFZWDNyOHJ4aDA5dVNPcm5JVG8zWm1ERVVmUURqU3NndkQ2LVo0STVGVzlCVTNyY2RKbE5CM2ZTajV6SkhWNm9kUW93WWd4aWJVVkJOQlVYTXlKa1NEZW1IRWdqQkZXTkcyQ1Bzb3djV0tXcWUyY2UzRFlNckdBZQ?oc=5
+2025-02-25 21:10:53,806 - news_summary - INFO - Scraping article: https://news.google.com/rss/articles/CBMijwFBVV95cUxNYUx2amlJMmJQU2FIZ3B6QTF5Tm1KSFJVWV9FRGMteDNQZGJ3UGo0OFhycDZCOVVBLW9MaDRtWU1nU3ljSmtiUS1fNTFyN3hZdXRBU1pyWEMwZzFQUk51VWpzRmF4X3ZNcWlwQXVyR3JDeTZ2OE5aRTlyY2M5TzNTNUp2MUJKTFhPZU9JRTZwMA?oc=5
+2025-02-25 21:10:54,079 - news_summary - INFO - Scraping article: https://news.google.com/rss/articles/CBMiygFBVV95cUxQRlYwWlhDSEtrbUEtQ3BtVE0xazZobVQ2VEUzLUtSUkQzOEUyZDFXSXh4bUkwVWFnQWU3dUNQcElTaWFFWmJYRDV0NHNrZGYtS3VZUXhNOFpxTVphM3ZPY1ppcHRtM2pFWWtURU9GaFVtMGVpejhoYnZfQnlBc0UyT3dvdC1rdnViUW5mMjAydXR4N0ZOQ1hmbXJENTRPLWl1azVGaUlHUnMyX2JDYk9VWUlZbUJpaG1wZkRwWTNlalpheW4wZVFqZXZn?oc=5
+2025-02-25 21:10:54,277 - news_summary - INFO - Scraping article: https://news.google.com/rss/articles/CBMinwFBVV95cUxPY01pYjlTQ2VKamQ0bUhkUXdqbmtNX3E0dm9iemhyVDR5NlZqUjBJM0M2TFd2bUtvd3F4WmFYRGQ5M3B3TmQ3R2xiNHRNOXVwMHlHT29vOGJnMWUwT093NFJNWERYRTRQOElWOWVOQ0VFaGN0Vzgxak41VGM1Y254dS1nWjR4dExUYnhGVV9tOVEyOVZGVkhYTkhFLWo4OVU?oc=5
+2025-02-25 21:10:54,616 - news_summary - INFO - Scraping article: https://news.google.com/rss/articles/CBMiigFBVV95cUxOVk1YcmNLLW12TGQ5bktZQXljb295clc1X1V3REpxbDZOdUY3b09BYkNoMlFyX3pQa1dGYkt6eXZ6dEViRFkwaVh3NVZXQVpKZmpDbHVNVTloTlpHNzhTYlA2WTZEdW9iLWc2TnZkWU9wOFlDbUtGeTc3cm1UUHdlUzVJSWxHekJrZ1E?oc=5
+2025-02-25 21:12:25,890 - news_summary - INFO - Fetching news URLs for: baseball
+2025-02-25 21:12:27,209 - news_summary - INFO - Scraping https://www.si.com/college/missouri/baseball/behind-a-picarelli-offensive-explosion-mizzou-baseball-rallies-for-home-opener-win-01jmzjsx691r
+2025-02-25 21:12:27,425 - news_summary - INFO - Scraping https://www.msn.com/en-us/sports/mlb/arroyo-s-grand-slam-didawick-s-robbery-lift-uva-baseball-past-vmi-6-4/ar-AA1zNAxv?ocid=BingNewsVerp
+2025-02-25 21:12:27,661 - news_summary - INFO - Scraping https://www.msn.com/en-us/sports/mlb/state-of-the-beavs-osu-baseballs-mixed-bag-in-texas-hoops-milestones/ar-AA1zNy0O?ocid=BingNewsVerp
+2025-02-25 21:12:27,981 - news_summary - INFO - Scraping https://www.mlb.com/news/taipei-world-baseball-classic-qualifiers-2025-scores
+2025-02-25 21:12:28,113 - news_summary - INFO - Scraping https://www.msn.com/en-us/money/economy/changes-coming-to-ugi-rates-next-month/ar-AA1zMyMa?ocid=BingNewsVerp
+2025-02-25 21:12:35,784 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 21:14:45,299 - news_summary - INFO - Fetching news URLs from Bing for: baseball
+2025-02-25 21:14:45,772 - news_summary - INFO - Scraping https://www.si.com/college/missouri/baseball/behind-a-picarelli-offensive-explosion-mizzou-baseball-rallies-for-home-opener-win-01jmzjsx691r
+2025-02-25 21:14:45,896 - news_summary - INFO - Scraping https://www.msn.com/en-us/sports/mlb/arroyo-s-grand-slam-didawick-s-robbery-lift-uva-baseball-past-vmi-6-4/ar-AA1zNAxv?ocid=BingNewsVerp
+2025-02-25 21:14:46,202 - news_summary - INFO - Scraping https://www.msn.com/en-us/sports/mlb/state-of-the-beavs-osu-baseballs-mixed-bag-in-texas-hoops-milestones/ar-AA1zNy0O?ocid=BingNewsVerp
+2025-02-25 21:14:46,458 - news_summary - INFO - Scraping https://www.mlb.com/news/taipei-world-baseball-classic-qualifiers-2025-scores
+2025-02-25 21:14:46,696 - news_summary - INFO - Scraping https://www.msn.com/en-us/money/economy/changes-coming-to-ugi-rates-next-month/ar-AA1zMyMa?ocid=BingNewsVerp
+2025-02-25 21:14:54,644 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-25 21:15:04,871 - news_summary - INFO - Fetching news URLs from Bing for: Cricket Champions Trophy
+2025-02-25 21:15:05,506 - news_summary - INFO - Scraping https://sports.yahoo.com/article/how-to-watch-the-icc-champions-trophy-schedule-where-to-stream-for-less-and-more-123006420.html
+2025-02-25 21:15:06,086 - news_summary - INFO - Scraping https://sports.ndtv.com/icc-champions-trophy-2025/amid-debate-over-ct-2025-venue-advantage-ex-india-stars-no-shame-verdict-7792357
+2025-02-25 21:15:06,920 - news_summary - INFO - Scraping https://www.msn.com/en-gb/sport/other/cricket-australia-south-africa-champions-trophy-clash-abandoned/ar-AA1zKzFa?ocid=BingNewsVerp
+2025-02-25 21:15:07,230 - news_summary - INFO - Scraping https://propakistani.pk/2025/02/26/watch-afghanistan-vs-england-champions-trophy-live-streaming/
+2025-02-25 21:15:07,309 - news_summary - INFO - Scraping https://www.msn.com/en-us/sports/cricket/how-to-watch-south-africa-vs-australia-live-stream-2025-icc-champions-trophy-tv-channel/ar-AA1zJE9n?ocid=BingNewsVerp
+2025-02-25 21:15:13,879 - httpx - INFO - HTTP Request: POST https://api.mistral.ai/v1/chat/completions "HTTP/1.1 200 OK"
